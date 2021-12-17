@@ -4,7 +4,6 @@ import Header from "./components/Header";
 import Home from "./pages/Home";
 import Portofolio from "./pages/Portofolio";
 import Contact from "./pages/Contact";
-import Courses from "./pages/Courses";
 import Footer from "./components/Footer";
 import "./stylesheets/home.css";
 import "./stylesheets/carousel.css";

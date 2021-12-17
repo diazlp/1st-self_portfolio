@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# About
+
+This repository purpose is to publish my first portofolio code. I deployed them in netlify app. It contains 6 of my recent work I made (per 17 December 2021) it may grow as well as it might get replaced sooner or later.
+
+Readers can see them live on here: [Live Portofolio]()
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
