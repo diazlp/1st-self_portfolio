@@ -9,10 +9,10 @@ const Portofolio = () => {
   const portofolios = [
     {
       title: "Holidays Event App",
-      image: "construction-svgrepo-com.svg",
+      image: "firework.svg",
       description:
-        "INCOMING PROJECT: Expect the unexpected, this project will be using Next JS Technology",
-      link: "/portofolio",
+        "Holiday Events App for Commenting and Registering Newsletter using NextJS, MongoDB, and Firebase",
+      link: "https://holiday-events-app.vercel.app/",
     },
     {
       title: "World Conferences Web App",
